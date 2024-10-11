@@ -1,0 +1,11 @@
+{
+    "firstname": "Yogendra",
+    "lastname": "Bijapur",
+    "totalprice": 9999,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2024-02-23",
+        "checkout": "2024-10-23"
+    },
+    "additionalneeds": "Dinner"
+}
